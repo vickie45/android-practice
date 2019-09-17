@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697729729936",
+    "firebase_url": "https://sample-cb832.firebaseio.com",
+    "project_id": "sample-cb832",
+    "storage_bucket": "sample-cb832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697729729936:android:38539195bf3e6cc5f31f15",
+        "android_client_info": {
+          "package_name": "com.vishbutttonprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697729729936-ok2qmlo3hka5f29ra7g88bbpu8madpq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhPheydaQoGCtGRBnCF-oZf5th7PCdkss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697729729936-ok2qmlo3hka5f29ra7g88bbpu8madpq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void onClickFunc(View view){
-        final int info = Log.i("Info", " Hey! you Pressed me!");
+
+        Log.i("Info", " Hey! you Pressed me!");
         Toast.makeText(getApplicationContext(),"Hey! you Pressed me!",Toast.LENGTH_SHORT).show();
     }
 }
